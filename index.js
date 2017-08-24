@@ -10,9 +10,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  n = 401
   const two = 2
-  return n + praseInt(two)
+  return n
 }
 
 var funkyFunction = function() {
