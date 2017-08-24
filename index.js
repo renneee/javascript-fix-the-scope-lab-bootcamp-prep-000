@@ -12,7 +12,7 @@ function yourAnimal() {
 function add2(n) {
   n = 401
   const two = 2
-  return n + two
+  return n + praseInt(two)
 }
 
 var funkyFunction = function() {
