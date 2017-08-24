@@ -25,6 +25,3 @@ var funkyFunction = function () {
 var funkyFunction = function ()
 
 funkyFunction
-
-
-
